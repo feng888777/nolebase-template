@@ -1,8 +1,8 @@
 ---
 layout: home
 sidebar: false
-title: Nólëbase
-titleTemplate: 彩极术
+title: 彩极术
+titleTemplate: 精研彩票技术
 hero:
   name: g~Nj$3J2^
   text: 记录回忆，知识和畅想的地方
