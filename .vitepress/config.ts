@@ -133,7 +133,7 @@ export default defineConfig({
       text: '编辑本页面',
     },
     socialLinks: [
-      { icon: 'QQ', link: githubRepoLink },
+      { icon: 'https://th.bing.com/th/id/OIP.rV8g4yAiBQlIJo54DBZc9gHaFC?rs=1&pid=ImgDetMain', link: githubRepoLink },
       { icon: 'WX', link: discordLink },
     ],
     footer: {
