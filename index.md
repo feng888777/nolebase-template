@@ -15,10 +15,10 @@ hero:
       text: 开始阅读
       link: /笔记/index
     - theme: alt
-      text: 加入 Discord 服务器
+      text: 好好玩
       link: https://discord.gg/XuNFDcDZGj
     - theme: alt
-      text: GitHub 上浏览
+      text: 加油哦
       link: https://github.com/nolebase/nolebase
 features:
   - title: 多样的主题和内容
