@@ -16,7 +16,7 @@ export interface Creator {
   emailAliases?: string[]
 }
 
-const getAvatarUrl = (name: string) => `https://th.bing.com/th/id/OIP.vYQVj8k3Q2zLNhLWNW2caQHaaa?rs=1&pid=ImgDetMain`
+const getAvatarUrl = (name: string) => `图片链接`
 
 export const creators: Creator[] = [
   {
