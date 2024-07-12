@@ -132,10 +132,7 @@ export default defineConfig({
       pattern: `${githubRepoLink}/tree/main/:path`,
       text: '编辑本页面',
     },
-    socialLinks: [
-      { icon: 'https://th.bing.com/th/id/OIP.rV8g4yAiBQlIJo54DBZc9gHaFC?rs=1&pid=ImgDetMain', link: githubRepoLink },
-      { icon: 'WX', link: discordLink },
-    ],
+
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
       copyright:
