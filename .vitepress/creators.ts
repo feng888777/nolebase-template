@@ -27,7 +27,7 @@ export const creators: Creator[] = [
     desc: '看过来就好',
     links: [
       { type: 'QQ', icon: 'github', link: 'https://space.bilibili.com/475115156' },
-      { type: '微信', icon: 'twitter', link: 'https://twitter.com/ayakaneko' },
+      { type: '微信', icon: 'twitter', link: '链接地址' },
     ],
     nameAliases: ['nekomeowww', '你猜', '是嘛', 'Neko Ayaka', 'Ayaka Neko'],
     emailAliases: ['neko@ayaka.moe'],
