@@ -8,7 +8,7 @@ hero:
   text: 彩极术
   tagline: 精研彩票技术
   image:
-    src: [/logo.svg](https://th.bing.com/th/id/OIP.vYQVj8k3Q2zLNhLWNW2caQHaaa?rs=1&pid=ImgDetMain)
+    src: [/logo.svg]
     alt: Vitest
   actions:
     - theme: brand
