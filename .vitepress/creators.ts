@@ -16,17 +16,17 @@ export interface Creator {
   emailAliases?: string[]
 }
 
-const getAvatarUrl = (name: string) => `https://github.com/${name}.png`
+const getAvatarUrl = (name: string) => `https://th.bing.com/th/id/OIP.vYQVj8k3Q2zLNhLWNW2caQHaaa?rs=1&pid=ImgDetMain`
 
 export const creators: Creator[] = [
   {
     name: '你猜',
     avatar: '',
     username: 'nekomeowww',
-    title: 'Nólëbase 原始创作者',
-    desc: '开发者，专注于基础设施维护，数据分析，后端、DevOps 开发',
+    title: '不需要的',
+    desc: '看过来就好',
     links: [
-      { type: 'github', icon: 'github', link: 'https://github.com/nekomeowww' },
+      { type: 'github', icon: 'github', link: 'https://space.bilibili.com/475115156' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/ayakaneko' },
     ],
     nameAliases: ['nekomeowww', '你猜', '是嘛', 'Neko Ayaka', 'Ayaka Neko'],
