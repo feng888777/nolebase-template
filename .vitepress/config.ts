@@ -133,8 +133,8 @@ export default defineConfig({
       text: '编辑本页面',
     },
     socialLinks: [
-      { icon: 'github', link: githubRepoLink },
-      { icon: 'discord', link: discordLink },
+      { icon: 'QQ', link: githubRepoLink },
+      { icon: 'WX', link: discordLink },
     ],
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
