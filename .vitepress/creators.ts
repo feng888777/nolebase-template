@@ -1,5 +1,5 @@
 export interface SocialEntry {
-  type: 'github' | 'twitter' | 'email'
+  type: 'QQ' | 'QQ' | 'email'
   icon: string
   link: string
 }
@@ -20,7 +20,7 @@ const getAvatarUrl = (name: string) => `https://github.com/${name}.png`
 
 export const creators: Creator[] = [
   {
-    name: '絢香猫',
+    name: '你猜',
     avatar: '',
     username: 'nekomeowww',
     title: 'Nólëbase 原始创作者',
@@ -29,7 +29,7 @@ export const creators: Creator[] = [
       { type: 'github', icon: 'github', link: 'https://github.com/nekomeowww' },
       { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/ayakaneko' },
     ],
-    nameAliases: ['nekomeowww', '绚香猫', '絢香猫', 'Neko Ayaka', 'Ayaka Neko'],
+    nameAliases: ['nekomeowww', '你猜', '是嘛', 'Neko Ayaka', 'Ayaka Neko'],
     emailAliases: ['neko@ayaka.moe'],
   },
   {
