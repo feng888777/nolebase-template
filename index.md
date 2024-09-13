@@ -2,8 +2,8 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: 彩极术
+titleTemplate: 彩极术
 
 hero:
   name: g~Nj$3J2^
