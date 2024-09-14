@@ -6,11 +6,6 @@ export const siteDescription = '极致实用彩票技术知识库'
 /** 文档所在目录 */
 export const include = ['笔记', '生活']
 
-/** Repo */
-export const githubRepoLink = 'https://github.com/nolebase/nolebase'
-/** Discord */
-export const discordLink = 'https://discord.gg/XuNFDcDZGj'
-
 /** 无协议前缀域名 */
 export const plainTargetDomain = 'caijishu.us.kg/'
 /** 完整域名 */
