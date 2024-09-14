@@ -6,7 +6,7 @@ title: 彩极术
 titleTemplate: 彩极术
 
 hero:
-  name: g~Nj$3J2^
+  name: cai~ji$shu^
   text: 彩极术
   tagline: 极致实用的彩票技术知识库
   image:
