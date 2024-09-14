@@ -18,10 +18,10 @@ hero:
       link: /笔记/index
     - theme: alt
       text: 技术交流QQ
-      link: https://cloudflare-imgbed-dp1.pages.dev/file/1726323136791_QQ859455864.jpg
+      link: https://cloudflare-imgbed-dp1.pages.dev/file/1726352477085_QQ859455864.jpg
     - theme: alt
       text: 技术交流68
-      link: https://cloudflare-imgbed-dp1.pages.dev/file/1726323139053_1726317865243.jpg
+      link: https://cloudflare-imgbed-dp1.pages.dev/file/1726352477964_1726317865243.jpg
 
 features:
   - title: 极致
