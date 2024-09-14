@@ -5,7 +5,7 @@
   火丰：68chat：89gw8l8l66
 ###### 常用缩水做号软件
 https://pan.quark.cn/s/97a194e8cb5e
-windows：多彩        
+windows：多彩 
 安卓：腾龙
 珍彩网（网页版）： http://web.zcwnet.com/zcw/zh
 
