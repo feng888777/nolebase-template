@@ -25,6 +25,8 @@ export default defineConfig(async () => {
         repoURL: () => githubRepoLink,
       }),
       GitChangelogMarkdownSection({
+        disableChangelog: true, 
+        disableContributors: true, 
         getChangelogTitle: (): string => {
           return '文件历史'
         },
