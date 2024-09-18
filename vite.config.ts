@@ -20,16 +20,23 @@ export default defineConfig(async () => {
       ],
     },
     plugins: [
-      GitChangelogMarkdownSection({ 
       Inspect(),
       GitChangelog({
         repoURL: () => githubRepoLink,
       }),
       GitChangelogMarkdownSection({
-        sections: { 
-          disableChangelog: true, 
-          disableContributors: true, 
-        }, 
+        disableChangelog: true, 
+        disableContributors: true, 
+        getChangelogTitle: (): string => {
+          return '文件历史'
+        },
+        getContributorsTitle: (): string => {
+          return '贡献者'
+        },
+        excludes: [
+          'toc.md',
+          'index.md',
+        ],
       }),
       PageProperties(),
       PagePropertiesMarkdownSection({
