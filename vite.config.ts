@@ -20,13 +20,17 @@ export default defineConfig(async () => {
       ],
     },
     plugins: [
+      GitChangelogMarkdownSection({ 
+        sections: { 
+          disableChangelog: true, 
+          disableContributors: true, 
+        }, 
+      }), 
       Inspect(),
       GitChangelog({
         repoURL: () => githubRepoLink,
       }),
       GitChangelogMarkdownSection({
-        disableChangelog: true, 
-        disableContributors: true, 
         getChangelogTitle: (): string => {
           return '文件历史'
         },
