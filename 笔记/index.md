@@ -18,7 +18,9 @@ comment: false
   
   火丰：68chat：89gw8l8l66
 
-><font color="#dd00dd">技术交流群及内部会员群联系火丰QQ获取</font>
+><font color="#dd00dd">技术交流群及内部会员群联系火丰QQ获</font>
+
+><font color="#dd00dd">群内定期不定期  直播交流技术。</font>
 
 
 ###### 常用缩水做号软件
