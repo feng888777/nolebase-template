@@ -5,6 +5,9 @@ comment: false
 ---
 # K线系统的由来
 
+彩票技术只均衡
+<iframe src="https://vk.com/video_ext.php?oid=762871353&id=456239020&hd=1&autoplay=1" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+
 ###### K线图
 
 K线图（Candlestick Charts）又称蜡烛图、日本线、阴阳线、棒线等，常用说法是“K线”，起源于日本十八世纪德川幕府时代（1603～1867年）的米市交易，用来计算米价每天的涨跌。因其标画方法具有独到之处，人们把它引入股票市场价格走势的分析中，经过300多年的发展，已经广泛应用于股票、期货、外汇，期权等证券市场。
