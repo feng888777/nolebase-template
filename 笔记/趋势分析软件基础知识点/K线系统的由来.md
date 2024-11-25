@@ -5,8 +5,24 @@ comment: false
 ---
 # K线系统的由来
 
-彩票技术只均衡
-<iframe src="https://vk.com/video_ext.php?oid=762871353&id=456239020&hd=1&autoplay=1" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+
+--- start-multi-column: ID_d7ai
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
+123
+<iframe src="https://vk.com/video_ext.php?oid=762871353&id=456239020&hd=1" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+
+--- column-break ---
+
+456
+<iframe src="https://vk.com/video_ext.php?oid=762871353&id=456239020&hd=1" width="640" height="360" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+
+--- end-multi-column
+
+
 
 ###### K线图
 
