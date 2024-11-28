@@ -3,7 +3,7 @@ tags:
   - K线形态
 comment: false
 ---
-# V形底
+# V形底，图片加载慢耐心等待下
 
 ![奇妙软件V3.1趋势分析技术文档2016.10.27_ro8DPgCK8m.png](https://cloudflare-imgbed-dp1.pages.dev/file/1727619490897_奇妙软件V3.1趋势分析技术文档2016.10.27_ro8DPgCK8m.png)
 
